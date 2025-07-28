@@ -4,7 +4,8 @@ A simple and responsive To-Do list app built using ReactJS.
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the demo](todoify-abdul.netlify.app)
+🔗 [Click here to view the demo](https://todoify-abdul.netlify.app)
+
 
 ## 📌 Features
 - Add tasks
